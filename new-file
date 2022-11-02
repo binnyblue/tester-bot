@@ -1,1 +1,11 @@
 new incredble change
+
+/**
+    TODO: Add parcing to multiline
+    todos and check if we get
+    a block or just by line.
+ */
+
+ fn inRust(we,accept,args,like,this){
+    "Die Here"
+ }
